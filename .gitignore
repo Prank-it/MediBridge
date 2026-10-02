@@ -46,3 +46,9 @@ __pycache__/
 
 backend/prescriptions/
 backend_backup_safe/
+
+# Generated prescription files
+MediBridge/backend/prescriptions/
+
+# Temporary key-removal file
+MediBridge/replacements.txt
